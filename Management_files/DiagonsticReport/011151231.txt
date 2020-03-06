@@ -1,0 +1,5 @@
+2/05/2012,Hemoglobin lavel,124g/L,Good
+1/05/2013,Whitecell,7.25g/L,Good
+10/05/2014,Pletelet,22.4g/L,not bad
+31/05/2015,Neutrophill,887.5g/L,worst 
+15/05/2018,Monocyte,100.25g/L,Good 
